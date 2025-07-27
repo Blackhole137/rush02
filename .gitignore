@@ -1,0 +1,8 @@
+.*.swp
+.*.swo
+a.out
+t
+.gdb_history
+*.o
+rush-02
+build/*
